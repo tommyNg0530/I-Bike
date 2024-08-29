@@ -1,4 +1,4 @@
-# I-Bike system
+# I-Bike system (IoT)
 ## Overview
 - This system enhances the cycling experience by providing real-time data and control features, ensuring both safety and convenience for the rider.
 <div style="text-align: center;">

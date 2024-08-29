@@ -9,8 +9,8 @@
 - An LED matrix module at the back of the bicycle displays a left or right indicator when the bike is changing directions.
 - Direction changes are detected using a gyroscope placed on the steering wheel.
 
-### Electric Control Derailleur (Manual Control)
-- A servo motor controls the movement of the derailleur by winding and unwinding the derailleur cable, allowing for manual adjustments by the user.
+### Electric Auto-Control Derailleur 
+- A servo motor controls the derailleur's movement by winding and unwinding the derailleur cable, allowing the user to make manual adjustments on the gear level based on the current slope.
 
 ### Real-time Derailleur Control
 - The gyroscope's data is utilized to assess the riding situation (flat, downhill, uphill), automatically adjusting the derailleur to the appropriate level based on real-time conditions.

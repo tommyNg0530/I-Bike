@@ -1,4 +1,6 @@
 # I-Bike system
+## Overview
+- This system enhances the cycling experience by providing real-time data and control features, ensuring both safety and convenience for the rider.
 
 ## Features
 
@@ -19,5 +21,3 @@
 - An HC-05 module transmits speed and distance traveled to an Android phone.
 - Users can manually turn the lights on or off by sending commands from the Android phone.
 
-## Overview
-This system enhances the cycling experience by providing real-time data and control features, ensuring both safety and convenience for the rider.
